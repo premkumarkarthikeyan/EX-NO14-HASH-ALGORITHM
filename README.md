@@ -28,8 +28,8 @@ To implement HASH ALGORITHM
 
 ## Program:
 ```
-NAME: SANJAY G
-REG_NUM: 212222230131
+NAME: premkumar k
+REG_NUM: 212222230111
 #include <stdio.h>
 #include <string.h>
 
@@ -83,7 +83,8 @@ int main() {
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d7b364b2-0010-488b-946f-79d34066c0a3)
+![image](https://github.com/user-attachments/assets/d6d043d1-32ac-475a-830f-0d4d87f1681f)
+
 
 
 ## Result:
